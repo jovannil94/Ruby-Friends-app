@@ -1,5 +1,5 @@
 # README
-
+Hosted on Heroku at https://rubyrailsfriendsapp.herokuapp.com/
 Using Ruby on Rails tutorial https://www.youtube.com/watch?v=fmyvWz5TUWg
 
 Things you may want to cover:
